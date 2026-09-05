@@ -5,25 +5,18 @@ import os
 import sys
 import uuid
 import logging
-from dotenv import load_dotenv
 from datetime import datetime
-
-load_dotenv()
 
 # ========== KONFIGURASI ==========
 OUTPUT_DIR = "playlists"
 OUTPUT_FILE = "rctiplus.m3u"
-BASE_URL = "https://www.rctiplus.com"
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-API_URL = os.getenv("RCTIPLUS_API_URL")
-API_KEY = os.getenv("RCTIPLUS_API_KEY")
-FALLBACK_TOKEN = os.getenv("RCTIPLUS_FALLBACK_TOKEN")
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0'
+API_KEY = 'k1DzR0yYWIyZgvTvixiDHnb4Nl08wSU0'
+BASE_URL = 'https://www.rctiplus.com'
+API_URL = 'https://toutatis.rctiplus.com/video/live/api/v1/live/{}/url'
 
-if not API_KEY:
-    logging.error("❌ RCTIPLUS_API_KEY tidak ditemukan!")
-    logging.error("   Local: pastikan ada di .env")
-    logging.error("   CI/CD: pastikan di GitHub Secrets")
-    sys.exit(1)
+# Token fallback (expired, cuma buat darurat)
+FALLBACK_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOjAsInRva2VuIjoiZjlhYjEyMjg1NmQ3NGYwZiIsInBsIjoid2ViIiwiZGV2aWNlX2lkIjoiMjllNWZkOGEtMDg2YS0xMWVmLTliYTAtMDAxNjNlMDQxOGVjIn0.T0iVov0r2Ai-bhP3NsSoOZhP2WansABSNhrWzvB29-c'
 
 CHANNELS = [
     {"api_id": 1, "name": "RCTI", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"},
@@ -57,9 +50,12 @@ def get_jwt_token(session):
 
 def extract_stream_url(data):
     """Extract stream URL dari response JSON"""
+    # Cek struktur response yang mungkin
     if isinstance(data, dict):
+        # Langsung di field url
         if 'url' in data and data['url']:
             return data['url']
+        # Di dalam data.url
         if 'data' in data and isinstance(data['data'], dict):
             if 'url' in data['data'] and data['data']['url']:
                 return data['data']['url']
@@ -111,7 +107,7 @@ def generate_m3u_content(channels_data):
         lines.append(f'#EXTVLCOPT:http-referrer={BASE_URL}/')
         lines.append(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
         lines.append(ch["stream_url"])
-        lines.append('')
+        lines.append('')  # empty line for readability
     
     return '\n'.join(lines)
 
