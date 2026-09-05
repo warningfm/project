@@ -1,5 +1,7 @@
 #EXTM3U
-# Generated: 2026-09-05 22:24:12
+
+# === RCTI+ SECTION ===
+# Updated: 2026-09-05 22:24:12
 
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -20,3 +22,5 @@ https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788683052~hmac=9b39e4a55e
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788683052~hmac=2115dc4b5eb1c89f4c2688560d73c1f1c456a2fef210cde9c4487ed6dba7f6b5
+
+# === END RCTI+ SECTION ===
