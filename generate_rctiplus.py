@@ -19,10 +19,10 @@ API_URL = 'https://toutatis.rctiplus.com/video/live/api/v1/live/{}/url'
 FALLBACK_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOjAsInRva2VuIjoiZjlhYjEyMjg1NmQ3NGYwZiIsInBsIjoid2ViIiwiZGV2aWNlX2lkIjoiMjllNWZkOGEtMDg2YS0xMWVmLTliYTAtMDAxNjNlMDQxOGVjIn0.T0iVov0r2Ai-bhP3NsSoOZhP2WansABSNhrWzvB29-c'
 
 CHANNELS = [
-    {"api_id": 1, "name": "RCTI", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"},
-    {"api_id": 2, "name": "MNCTV", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"},
-    {"api_id": 3, "name": "GTV", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png"},
-    {"api_id": 4, "name": "iNews", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png"}
+    {"api_id": 1, "name": "RCTI", "logo": "https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1"},
+    {"api_id": 2, "name": "MNCTV", "logo": "https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1"},
+    {"api_id": 3, "name": "GTV", "logo": "https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1"},
+    {"api_id": 4, "name": "iNews", "logo": "https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1"}
 ]
 
 # Setup logging
@@ -103,7 +103,7 @@ def generate_m3u_content(channels_data):
     lines.append('')
     
     for ch in channels_data:
-        lines.append(f'#EXTINF:-1 tvg-id="{ch["name"]}" group-title="Nasional" tvg-logo="{ch["logo"]}",{ch["name"]}')
+        lines.append(f'#EXTINF:-1 tvg-id="{ch["name"]}" group-title="RCTI+" tvg-logo="{ch["logo"]}",{ch["name"]}')
         lines.append(f'#EXTVLCOPT:http-referrer={BASE_URL}/')
         lines.append(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
         lines.append(ch["stream_url"])
