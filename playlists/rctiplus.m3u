@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-09-05 22:28:38
+# Generated: 2026-09-05 22:34:18
 
-#EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788683317~hmac=8b89a2771cca818140a9295cb785d84600d0467625783b84142f7f7d28244dd4
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788683657~hmac=f8818b389a308aa857b6ccb57ce9f7f1234520f7a346117ab93e9a478ef70d3a
 
-#EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
+#EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788683317~hmac=50f502a09883af13eb52d367d94cbbcc8bea084f683c4a45ef3b951ee353014d
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788683657~hmac=65b0bfd4d5330e15f2c8e7f9fdcd04d435c3ec1286c717dea65d4affc97934b6
 
-#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788683318~hmac=299c31a1bdaf4819bfc8527376c10552d186e1a8b1665307abb182be474b65d6
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788683657~hmac=86fb7708f0aeb72b65fac7b1e63194d6021d64e651a65f1932974da6dc7ed0ce
 
-#EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+#EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788683318~hmac=d20baf7d4753ec9da131817898fe519c9afedb85b8a283b9bbf7c78fa39b7daf
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788683658~hmac=3302edfd8ea6b06557131bc07f1aa1fed07af0c00422c312ae5ca1eac34ccb1d
