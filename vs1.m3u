@@ -1305,10 +1305,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 ########################################################           SSC Sport Pack           ########################################################
 ########################################################           Dens TV           ########################################################
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+https://tvratu.my.id/vid/index.m3u8?id=204
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
