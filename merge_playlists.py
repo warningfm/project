@@ -86,7 +86,7 @@ def merge_to_vs1():
     new_content = content + "\n".join(new_section)
     
     # Simpan di root repo
-    with open(indihome_path, 'w', encoding='utf-8') as f:
+    with open(vs1_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
     print(f"✅ Merged {len(streams)} RCTI+ channels to {vs1_path}")
