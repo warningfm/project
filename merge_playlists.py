@@ -48,11 +48,11 @@ def merge_to_vs1():
     print(f"📺 Found {len(streams)} RCTI+ streams")
     
     # Path di root repo (bukan di playlists/)
-    indihome_path = VS1_FILE
+    vs1_path = VS1_FILE
     
     # Baca file vs1.m3u yang ada (kalo ada)
-    if os.path.exists(indihome_path):
-        with open(indihome_path, 'r', encoding='utf-8') as f:
+    if os.path.exists(vs1_path):
+        with open(vs1_path, 'r', encoding='utf-8') as f:
             content = f.read()
     else:
         content = "#EXTM3U\n\n"
