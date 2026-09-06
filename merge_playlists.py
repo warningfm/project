@@ -4,7 +4,7 @@ from datetime import datetime
 
 OUTPUT_DIR = "playlists"
 RCTI_FILE = os.path.join(OUTPUT_DIR, "rctiplus.m3u")
-INDIHOME_FILE = "IndihomeTV.m3u"
+VS1_FILE = "vs1.m3u"
 
 def extract_rcti_streams():
     """Extract stream URLs dari file rctiplus.m3u"""
@@ -37,8 +37,8 @@ def extract_rcti_streams():
     
     return streams
 
-def merge_to_indihome():
-    print("🔗 Merging RCTI+ streams to IndihomeTV.m3u...")
+def merge_to_vs1():
+    print("🔗 Merging RCTI+ streams to vs1.m3u...")
     
     streams = extract_rcti_streams()
     if not streams:
@@ -48,15 +48,15 @@ def merge_to_indihome():
     print(f"📺 Found {len(streams)} RCTI+ streams")
     
     # Path di root repo (bukan di playlists/)
-    indihome_path = INDIHOME_FILE
+    indihome_path = VS1_FILE
     
-    # Baca file IndihomeTV.m3u yang ada (kalo ada)
+    # Baca file vs1.m3u yang ada (kalo ada)
     if os.path.exists(indihome_path):
         with open(indihome_path, 'r', encoding='utf-8') as f:
             content = f.read()
     else:
         content = "#EXTM3U\n\n"
-        print(f"📝 Creating new {indihome_path}")
+        print(f"📝 Creating new {vs1_path}")
     
     # Hapus section RCTI+ lama
     marker_start = "# === RCTI+ SECTION ==="
@@ -89,7 +89,7 @@ def merge_to_indihome():
     with open(indihome_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print(f"✅ Merged {len(streams)} RCTI+ channels to {indihome_path}")
+    print(f"✅ Merged {len(streams)} RCTI+ channels to {vs1_path}")
 
 if __name__ == "__main__":
-    merge_to_indihome()
+    merge_to_vs1()
