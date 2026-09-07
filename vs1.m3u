@@ -1320,12 +1320,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTVLCOPT:http-origin=https://btv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/borDppE.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="BTV.id" tvg-name="BTV", BTV
-#http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -1395,26 +1394,26 @@ https://stream-ssl.arenastreaming.com:8001/trax
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-07 12:56:02
+# Updated: 2026-09-07 03:07:18
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788821760~hmac=b4d4b39f11ddc73461b546aff9a3f578e12bd7a1ea724f7aa04ad09851ca3171
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788786437~hmac=f774e45ae2f3d4c32110208ca3c59575bcf78ad0f78b5cb98fcbd2844fa32a2a
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788821761~hmac=39580a7096dabbf2adbe55682a1b011e631706b7ece1a02b0d8f42835f7f93f8
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788786437~hmac=27640480c6f1bd95125d7532ea02fba06ffad6177f99f2f1b1f45e7c37e17114
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788821761~hmac=3d55becd659609bfa55bd79fbf953da23f14a156eec990efb6317f53aa531608
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788786437~hmac=9d01db7bed543f0cc41f0f6b80db416587afdf385dd82570e7f82c435f6ee9eb
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788821761~hmac=4d5f54d1d8cf4d4671436824c0678e1f2b1856a16433be52ecceba867ca17e10
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788786438~hmac=85071a5230dc6c12f90d09e56f50916538e94e9b1ee6d7050cc3a0d6d67eaaf2
 
 # === END RCTI+ SECTION ===
