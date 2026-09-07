@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-09-07 03:07:18
+# Generated: 2026-09-07 11:41:46
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788786437~hmac=f774e45ae2f3d4c32110208ca3c59575bcf78ad0f78b5cb98fcbd2844fa32a2a
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788817305~hmac=6651dec1f75587c90fecc0314d0763201334ebe3eb20f2a5a8d442983e38fde0
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788786437~hmac=27640480c6f1bd95125d7532ea02fba06ffad6177f99f2f1b1f45e7c37e17114
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788817305~hmac=f14f7a51af8bc8c6f18ff3caabbdfee982b6174b34cdd9261032c2dd87770c09
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788786437~hmac=9d01db7bed543f0cc41f0f6b80db416587afdf385dd82570e7f82c435f6ee9eb
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788817305~hmac=40ea39d044a37c42eb8fead7f2bfc581bec302f5cca6545014e485b51b3ddca8
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788786438~hmac=85071a5230dc6c12f90d09e56f50916538e94e9b1ee6d7050cc3a0d6d67eaaf2
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788817305~hmac=9e437d3ddf5d40c6efb040b3311fe8cae52a5b21197a76b071e9e30e0a22d62a
