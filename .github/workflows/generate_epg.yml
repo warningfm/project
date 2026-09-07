@@ -70,9 +70,6 @@ jobs:
             --output=../epgs/guide.xml \
             --maxConnections=8
 
-      - name: Backup pre-merge guide.xml
-        run: cp epgs/guide.xml epgs/guide.xml.bak
-
       # ========================================================
       # LANGKAH 2: Jalankan Fungsi 2 (generate_epg.py)
       # ========================================================
@@ -81,12 +78,6 @@ jobs:
         env:
           M3U_URL: ${{ secrets.M3U_URL }}
         run: python generate_epg.py
-
-      - name: Restore backup on merge failure
-        if: failure() && steps.merge_epg.outcome == 'failure'
-        run: |
-          echo "generate_epg.py failed sanity check or crashed. Restoring pre-merge guide.xml."
-          mv epgs/guide.xml.bak epgs/guide.xml
 
       # ========================================================
       # LANGKAH 3: Validasi XML & Index channels.txt
@@ -144,10 +135,6 @@ jobs:
           print(f"Generated channels.txt index with {len(entries)} items.")
           PY
 
-      - name: Cleanup backup file
-        if: success()
-        run: rm -f epgs/guide.xml.bak
-
       # ========================================================
       # LANGKAH 4: Push Bersih Tanpa Merusak Commit Utama
       # ========================================================
@@ -162,16 +149,46 @@ jobs:
             echo "No changes detected. Skipping commit."
             exit 0
           fi
-          
+
+          LAST_AUTHOR=$(git log -1 --format='%ae')
+          BOT_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-          LAST_MSG=$(git log -1 --format='%s')
-          
-          if [[ "$LAST_MSG" == Auto-Update* ]]; then
+          IS_AMEND=false
+
+          if [ "$LAST_AUTHOR" = "$BOT_EMAIL" ]; then
             echo "Last commit by bot. Amending..."
             git commit --amend --no-edit --date="$TIMESTAMP"
-            git push origin main --force-with-lease
+            IS_AMEND=true
           else
-            echo "Creating new commit..."
+            echo "Last commit by user. Creating new commit..."
             git commit -m "Auto-Update $TIMESTAMP"
-            git push origin main
           fi
+
+          for i in 1 2 3; do
+            echo "Syncing with remote (Attempt $i/3)..."
+            git fetch origin main
+
+            if ! git rebase origin/main -Xtheirs; then
+              echo "Rebase failed. Aborting."
+              git rebase --abort
+              exit 1
+            fi
+
+            echo "Pushing changes..."
+            if [ "$IS_AMEND" = true ]; then
+              PUSH_CMD="git push origin main --force-with-lease"
+            else
+              PUSH_CMD="git push origin main"
+            fi
+
+            if $PUSH_CMD; then
+              echo "Push berhasil."
+              exit 0
+            fi
+
+            echo "Push ditolak, mencoba rebase ulang di iterasi berikutnya..."
+            sleep 2
+          done
+
+          echo "Push gagal setelah 3x percobaan."
+          exit 1
