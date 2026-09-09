@@ -14,7 +14,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd|Referer=https://www.visionplus.id
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
-http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/c475eea1bb987ee095de763f6f5538fd849313cc/2b8fc230e8f847a.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
