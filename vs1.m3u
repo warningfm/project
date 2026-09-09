@@ -12,9 +12,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd|Referer=https://www.visionplus.id
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd|Referer=https://www.visionplus.id
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -32,22 +32,22 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.my.id" tvg-name="INDOSIAR HD", Indosiar HD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="Metro TV HD", Metro TV HD
 https://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cca.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%207
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans7", Trans 7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%20TV
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV.id", Trans TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
