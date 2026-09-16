@@ -730,8 +730,8 @@ https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/0Ia4QDr.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="Desi.Channel.in" tvg-name="Desi Channel", Desi Channel
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#http://146.59.253.52:8080/hindihitshd/index.m3u8
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
 ########################################################           Movies           ########################################################
 
