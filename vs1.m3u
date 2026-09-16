@@ -501,7 +501,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7uBqbs.png?v=1.1.1.1" group-title="Sports" tvg-id="beIN.SPORTS.Xtra.en.EspanÌƒol.distro" tvg-name="beIN SPORTS Xtra en EspanÌƒol", Bein Sports xtra esp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7uBqbs.png?v=1.1.1.1" group-title="Sports" tvg-id="plex.tv.beIN.Sports.Xtra.en.EspaÃ±ol.plex" tvg-name="beIN SPORTS Xtra en EspaÃ±ol", beIN SPORTS Xtra en EspaÃ±ol
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
