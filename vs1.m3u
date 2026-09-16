@@ -892,19 +892,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://i.imgur.com/hLz0pZB.png?v=1.1.1.1" tvg-id="HBO.id" tvg-name="HBO HD", HBO HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://i.imgur.com/fAAi3E3.png?v=1.1.1.1" tvg-id="HBO.Family.id" tvg-name="HBO Family HD", HBO Family HD
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://i.imgur.com/oSxr34d.png?v=1.1.1.1" tvg-id="HBO.Hits.id" tvg-name="HBO Hits HD", HBO Hits HD
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPIEhpdHM/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
