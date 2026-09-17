@@ -1339,7 +1339,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa5.m3u8
 https://sv.stri.my.id:3350/rbtfm?type=https&amp;nocache=377274
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/528/suara-banyuwangi.cba7aa74.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
-https://a7.alhastream.com:5423/radio
+https://anywhere.pwisetthon.com/http://a7.alhastream.com:5423/radio
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/35cgxzahyytq.jpeg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Soneta
 https://a2.siar.us:8250/radio.mp3
