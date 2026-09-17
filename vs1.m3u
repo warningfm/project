@@ -42,7 +42,7 @@ https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/ra
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayer/2.19.1 (Linux;Android 15;) ExoPlayerLib/2.19.1&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans7", Trans 7
 #https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/b44f306bc8e4190cf3755327604c18889a38162f/cdd283c9d3d43b5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
