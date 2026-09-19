@@ -9,11 +9,13 @@
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
