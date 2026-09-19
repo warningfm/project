@@ -1387,26 +1387,26 @@ https://stream-ssl.arenastreaming.com:8001/trax
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-18 15:54:58
+# Updated: 2026-09-18 20:27:59
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789782896~hmac=63d3b45c7bf742aa6fcb9d9a637221cb0811b2dbe1f713d56870f62db8b53c78
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789799278~hmac=cefe0195c36daa3d3712f10cdc01b042e928a7bfe7955c50621838217af5a21e
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789782897~hmac=34ed975b152999788cff9cb52419f49562395106e064f8ac50c65c6069c968a3
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789799278~hmac=bd8c3e1f528608160c9b1153b46ee6de5a4209b358dea3699e0aaecd05ee22c8
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789782897~hmac=df380cd46e7b0b19307a9330157b254daf8f87a6ff5b808a407eafcd31b07353
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789799279~hmac=c551784881f4a940d6424680ebff66e6fcaea1ac60660fe2818e70901802fb8b
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789782897~hmac=e1c9021c1a09fcb689881c73244f2d9de5efbed3c89bf92106b8c671e2ab6169
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789799279~hmac=dc9e2fe6d0a22d6a69c4ed258f2963af66ed6a60cd63362bcce982a3a6031981
 
 # === END RCTI+ SECTION ===
