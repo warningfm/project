@@ -1282,6 +1282,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 
 =======================================
 
+#======================================================== [ION] ====================================================================
+
+#EXTINF:-1 tvg-id="682634" tvg-logo="https://canvas-lb.tubitv.com/opts/44L0PIfgTmwN8g==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjhAAQ==" group-title="ION", ION
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="ION", ION MYSTERY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="ION", ION PLUS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
 ########################################################           SSC Sport Pack           ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
