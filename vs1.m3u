@@ -888,11 +888,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://i.imgur.com/hLz0pZB.png?v=1.1.1.1" tvg-id="HBO.id" tvg-name="HBO HD", HBO HD
 http://136.158.97.2:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1368249806492&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NJY3IWFAY6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155236346387&ispcode=55
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 #EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://i.imgur.com/fAAi3E3.png?v=1.1.1.1" tvg-id="HBO.Family.id" tvg-name="HBO Family HD", HBO Family HD
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
