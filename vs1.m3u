@@ -412,11 +412,10 @@ https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/
 
 ########################################################           Religious           ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1Li8EyKBY5ooLft3mEaM4KlVb6JOc46nsZ30k9gyl7vH_BL7UFnfLnGGgM4vib9tACMwxG_VB7gRXPkNquybTNGHm62KIrQ6LrHuAwSb_MCs_4Fu62lwrj2jKQz-isZBfVL55Hbr9vnQMYZs1l_1zroWY_4g9Lm4RnRmXuyW8wcemDl9bsNLlsskBQqV/s1600/egPVmpw.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem.id", AlQuran Kareem
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1Li8EyKBY5ooLft3mEaM4KlVb6JOc46nsZ30k9gyl7vH_BL7UFnfLnGGgM4vib9tACMwxG_VB7gRXPkNquybTNGHm62KIrQ6LrHuAwSb_MCs_4Fu62lwrj2jKQz-isZBfVL55Hbr9vnQMYZs1l_1zroWY_4g9Lm4RnRmXuyW8wcemDl9bsNLlsskBQqV/s1600/egPVmpw.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa", AlQuran Kareem
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/42482a972678b42f2802157785d20d6e56592aa1/f74b5dff8b8e6c6.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -611,11 +610,19 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet.id", Animal Planet
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png" group-title="Knowledge" tvg-id="" tvg-name="Animal Planet", Animal Planet (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/U4aTRX9.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="BBC.Earth.id" tvg-name="BBC Earth", BBC Earth Asia
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|Referer=https://www.visionplus.id
+https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vCe26fV.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="CGTNDocumentary.id" tvg-name="CGTN-Documentary", CGTN Documentary
@@ -802,11 +809,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mvkq14Y.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies", Celestial Movies (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd|Referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/puD2me6.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="KIX.id" tvg-name="KIX", KIX
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -814,6 +818,7 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TlTvkF.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Lotusmacau.Prd.id" tvg-name="Lotusmacau Prd", Lotusmacau Prd
 http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sGghGHY.png?v=1.1.1.1" group-title="Movies" tvg-id="US18000163F" tvg-name="MIRAMAX MOVIE CHANNEL", Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
