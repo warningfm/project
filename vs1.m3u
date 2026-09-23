@@ -1091,8 +1091,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="COLORS", Colors HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
+#https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsaudev.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CcRnIm9.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="B4U Movies.in" tvg-name="B4U Movies.in", B4U Movies
