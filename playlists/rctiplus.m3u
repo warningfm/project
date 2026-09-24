@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-09-24 11:11:30
+# Generated: 2026-09-24 16:35:08
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790284289~hmac=489b783403798d793d971fc79f71a3b7b52f50f24cb36307e14661f846a9da05
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790303707~hmac=05b4526ed1e169ce91905e80c7e66f52220d52b33401e55b33473968e350660d
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790284289~hmac=9f56aac629f0c394401c87dbc49a22cd686615442df0e5d8b2bd4fb47cd0f4ca
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790284289~hmac=0da84128444c17c81df5edd57abff22771f3cb572ccc729cfee26f1f3969e3e8
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790303707~hmac=dae84b86777928c075b6a7c1c576404ce6262350d01f4b47da0b760a9485da18
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790284290~hmac=d31ef5c945197e8097f13b208fff337c7fe0ccde80dfd018032636609e3927bd
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790303708~hmac=aeec33b08862090cd9a45d7a995d5b45716e411a4d8371fc941dc73232fbeaf8
