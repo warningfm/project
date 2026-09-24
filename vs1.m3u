@@ -41,16 +41,16 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 https://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cca.m3u8
 
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans7", Trans 7
 https://cdn.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b5.m3u8
 
 #EXTVLCOPT:http-referer=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", Trans TV
-https://cdn.nng.cloudns.us/live/m3u8/id/61061784f4a9271.m3u8
+https://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9271.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -83,7 +83,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="15" tvg-id="TVRINasional.go.id" tvg-name="TVRI Nasional HD", TVRI Nasional HD
-http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+https://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="MOJI", MOJI
@@ -1173,27 +1173,7 @@ https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.m
 ########################################################         Olahraga        ########################################################
 ########################################################    Saluran | Olahraga   ########################################################
 
-
-
 ########################################################           SSC Sport Pack           ########################################################
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.19.1&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Cubmu" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=YTBhOTA1MDM2ZTBjY2U2NDUxMGU4M2VkYTJiOTM4YTk=\u0026time=15253436051
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.19.1&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Cubmu" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd?signature=Y2E0OTMxMmY1YmY5ZjlkMTExZmI3ZjdmN2RiOWFlMmY=\u0026time=15253436156
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.19.1&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="Cubmu" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd
 
 ########################################################           Dens TV           ########################################################
 
