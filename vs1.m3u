@@ -1101,9 +1101,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hLTssci.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="ZeeTV.in" tvg-name="Zee TV.in" tvg-language="Hindi", Z TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
@@ -1117,7 +1117,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="🇮🇳 Hindi" tvg-chno="451" tvg-id="Zing.in" tvg-name="Zing.in", Zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlDAixM.png" group-title="🇮🇳 Hindi" tvg-chno="451" tvg-id="Zing.in" tvg-name="Zing.in", Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 ########################################################           Korengan           ########################################################
