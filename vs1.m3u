@@ -1013,7 +1013,7 @@ http://cdn.nng.cloudns.us/live/m3u8/fs/stream-eng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/j0Btob9.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru", Fashion One
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/fs/364bfe25097b976.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MiZ1x0.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru", Global Fashion Channel 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
@@ -1023,13 +1023,14 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/6f3a7724bc6468fb8c02029208a2ae3b886f103e/2f760b7cf8286be.m3u8
 #https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ee3IxRV.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1", MiamiTV Fashion
-https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/master.m3u8
+#https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/master.m3u8
+https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_480/images.spreaker.com/original/d6c2f000f1b5b6f4de5924d52968850a.jpg?v=1.0.0.1" group-title="Jenny Live" group-logo="", Miami TV Jenny Live
-https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
+#https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
 
 ########################################################    Brunei Darussalam     ########################################################
 
