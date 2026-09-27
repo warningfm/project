@@ -1,22 +1,12 @@
 #EXTM3U
-# Generated: 2026-09-27 11:29:28
-
-#EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790544567~hmac=4881bd911a6ba3880420e4de5d38688b09e2a84bbe1ddb4cf2bcc10e165e3da1
+# Generated: 2026-09-27 16:29:06
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790544567~hmac=c8db657dafa3e8f5cc9aaf67fdfb6f36812a510750b8e18ef5ba41d2d09548a2
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790544568~hmac=c3d4ff4d8fbb2773b2958eafaaa54f9d85e8f0e880c556137395fefe8891dd2a
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790562545~hmac=17e1d10ea9a047a585152028791610fc485f00ab350be84c97c4398bd9b3d88c
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790544568~hmac=29d69e91263d7b4b5478ea4eca12ffa7faee1c7237a8297d1465416a021d6e71
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790562546~hmac=5ed141d96070d4df7dbd3de6d97ca230369af783b6c8bf0364604cd60d8abea9
