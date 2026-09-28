@@ -860,6 +860,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/R28vFlE.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="tvNMovies.id" tvg-name="tvN Movies", tvN Movies
 http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Rwra3d5.png?v=1.0.0.1" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="99991621" group-title="Movies", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_vcid2=512116:8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
@@ -874,8 +875,8 @@ http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TAjYixM.png?v=1.0.0.1" group-title="Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia
 https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/1008d392fe976908b19b260c4e61a54e88d95c91/0c9fd875599b837.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=050
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Fgm4YLX.png?v=1.0.0.1" group-title="Movies" tvg-id="IMC.id" tvg-name="IMC", IMC
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://www.visionplus.id
