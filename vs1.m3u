@@ -56,8 +56,7 @@ https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790544568~hmac=c3d4ff4d8fbb2773b2958eafaaa54f9d85e8f0e880c556137395fefe8891dd2a
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
