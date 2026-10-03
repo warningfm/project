@@ -1235,11 +1235,11 @@ https://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UqGSTVT.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="tvOne.id@SD" tvg-name="TVOne", TVOne
 https://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
-#EXTVLCOPT:http-referrer=https://btv.id/
-#EXTVLCOPT:http-origin=https://btv.id/
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/borDppE.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="BTV.id" tvg-name="BTV", BTV
-https://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+https://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNapY0t.png?v=1.1.1.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", Berita Satu
@@ -1262,7 +1262,7 @@ https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4AsK6aP.png?v=1.1.1.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="RTV.id" tvg-name="RTV.id", RTV
-https://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa5.m3u8
+https://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 ########################################################               Radio             ########################################################
 
