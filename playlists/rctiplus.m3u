@@ -1,12 +1,12 @@
 #EXTM3U
-# Generated: 2026-10-03 15:47:41
+# Generated: 2026-10-03 20:38:48
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791078460~hmac=e29bc9e84254038337a10f4f5f3e7b5cf5e32d63c113ed2fe2039217ce43642d
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791095927~hmac=659ba11c43ea63c4af7d70eec953668e0d0a360efb625d826bcad93db3f53ea1
 
-#EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791078461~hmac=6f9af2f67b1546e77f35014b6dd93977122792914c03dd443d8dadb17e12987c
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791095927~hmac=93e8c8ace591b3a50236b3bec977dac35dd8a1bebbfc8840baa8bd4ffd080e4e
