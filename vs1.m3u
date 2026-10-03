@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
-# (●) Last Updated: 2026-09-18 03:24:38 GMT+7 "
+# (●) Last Updated: 2026-10-03 03:59:33 GMT+7 "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=001
