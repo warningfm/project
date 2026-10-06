@@ -1102,6 +1102,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/qui9OM5.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andtvHD.in" tvg-name="andtv HD.in", &TV  HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/qui9OM5.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andtvHD.in" tvg-name="&TV International", &TV International
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vlDAixM.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-chno="451" tvg-id="Zing.in" tvg-name="Zing.in", Zing
