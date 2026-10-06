@@ -1037,7 +1037,7 @@ https://cdn.nng.cloudns.us/live/m3u8/fs/2f760b7cf8286be.m3u8
 https://cdn.nng.cloudns.us/live/m3u8/fs/801a98b42276bac.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HIKRfAK.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="MiamiTV" tvg-name="MiamiTV", MiamiTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HIKRfAK.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="MiamiTV" tvg-name="MiamiTV", MiamiTV
 https://9cb0b5022c1c499ebe9e915fb85e9193.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-MiamiTV/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
