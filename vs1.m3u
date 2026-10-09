@@ -297,12 +297,6 @@ http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZWM4MzU0YWZiMjBiODU3NmMxZGIzMDliYjg5YmEyYzk=\u0026time=15253435645
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=072
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
@@ -322,7 +316,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="Indonesiana TV.id" tvg-name="Indonesiana TV.id", Indonesiana TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV.id", Indonesiana TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/65169ac6d2221de0cf3346bac07e65c6e67b3fc9/indonesiana.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
