@@ -293,10 +293,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kDghfOK.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="DaVinciLearning.sg" tvg-name"Da Vinci Learning", Da Vinci Learning
 http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="DuniaLain.id" tvg-name="Dunia Lain.id", Dunia Lain
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZWM4MzU0YWZiMjBiODU3NmMxZGIzMDliYjg5YmEyYzk=\u0026time=15253435645
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
