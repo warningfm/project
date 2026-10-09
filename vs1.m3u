@@ -294,7 +294,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
