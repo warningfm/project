@@ -925,9 +925,11 @@ https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/ra
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7A8gMAC.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="CNA" tvg-name"Channel News Asia HD", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=131
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CnrebpZ.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="CNBCAsia.id" tvg-name"CNBC Asia", CNBC Asia
-https://khano.nng.cloudns.us/live/m3u8/ns/3b5901d4c8158d3.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
