@@ -819,7 +819,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms", MovieSphere
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms", MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1180,7 +1180,7 @@ https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 
-#EXTINF:-1 channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4mdrvR6alGKw4BOn2sOnso/efe1f352f9ac767b86ed3ca3a1af2b62/Logo_Images_default.png" group-title="Nz" , MovieSphere
+#EXTINF:-1 channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4mdrvR6alGKw4BOn2sOnso/efe1f352f9ac767b86ed3ca3a1af2b62/Logo_Images_default.png" group-title="Nz" , Moviesphere by Lionsgate
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptms.m3u8
