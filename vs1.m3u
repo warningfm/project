@@ -1073,7 +1073,7 @@ https://khano.nng.cloudns.us/live/m3u8/in/0161349a884d23b.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJhVfAs.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="plex.tv.Shemaroo.Bollywood.plex" tvg-name="Shemaroo Bollywood", Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AJhVfAs.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="plex.tv.Shemaroo.Bollywood.plex" tvg-name="Shemaroo Bollywood", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
