@@ -801,12 +801,12 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-id="MoviesNow.in@SD" group-title="Movies" group-logo="https://m.media-amazon.com/images/I/41xefsFmG3L.png?v=1.0.0.1" tvg-logo="https://warningfm.github.io/v3/img/KHAo8B5.png", Movies Now
+#EXTINF:-1 group-title="Movies" group-logo="https://m.media-amazon.com/images/I/41xefsFmG3L.png?v=1.0.0.1" tvg-logo="https://warningfm.github.io/v3/img/KHAo8B5.png" tvg-id="MoviesNow.in@SD" tvg-name="Movies Now", Movies Now
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1T0PV8D.png" group-title="Movies" group-logo="https://m.media-amazon.com/images/I/41xefsFmG3L.png?v=1.0.0.1" tvg-id="MoviesNowPlus.in@SD", MN+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1T0PV8D.png" group-title="Movies" group-logo="https://m.media-amazon.com/images/I/41xefsFmG3L.png?v=1.0.0.1" tvg-id="MoviesNowPlus.in@SD" tvg-name="MN+", MN+
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -815,11 +815,11 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gzZWT2i.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="DE4000002I3" tvg-id="DE4000002I3" , Moviesphere by Lionsgate
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gzZWT2i.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="DE4000002I3" tvg-id="DE4000002I3" tvg-name="Moviesphere by Lionsgate", Moviesphere by Lionsgate
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms", MovieSphere
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-sky-ptms" tvg-id="mjh-sky-ptms" tvg-name="Moviesphere", MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
