@@ -1223,7 +1223,7 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 ########################################################    Saluran | Olahraga   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="Sports" cuid="1783" tvg-name="Spoops tv", Spoops tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztDcwl8.png" group-title="Sports" cuid="1783" tvg-name="Spoops tv", Spoops tv
 https://khano.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
 ########################################################          Dens TV         ########################################################
