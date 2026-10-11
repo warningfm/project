@@ -551,6 +551,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 =====================================================================================================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ztDcwl8.png" group-title="Sports" cuid="1783" tvg-name="Spoops tv", Spoops tv
+https://khano.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1222,9 +1226,7 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 ########################################################         Olahraga        ########################################################
 ########################################################    Saluran | Olahraga   ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ztDcwl8.png" group-title="Sports" cuid="1783" tvg-name="Spoops tv", Spoops tv
-https://khano.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
+
 
 ########################################################          Dens TV         ########################################################
 
