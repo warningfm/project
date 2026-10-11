@@ -188,7 +188,7 @@ https://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NH6niDL.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="DhohoTV.id@SD", Dhoho TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NH6niDL.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="DhohoTV.id@SD", Dhoho TV
 https://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -365,28 +365,28 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 ########################################################################################################################################################################
 
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network", AFN
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network", AFN
 http://khano.nng.cloudns.us/live/m3u8/int/17a9069cb71209c.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="6255" tvg-name="BBC Lifestyle", BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="6255" tvg-name="BBC Lifestyle", BBC Lifestyle
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-name="Discovering China" tvg-logo="https://warningfm.github.io/v3/img/AKukiai.png" group-title="Lifestyle" tvg-id="" tvg-chno="693", Discovering China
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AKukiai.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="" tvg-chno="693" tvg-name="Discovering China", Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="DENSFoodChannel.id" tvg-name="Dens Food Channel.id", DENS Food Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="DENSFoodChannel.id" tvg-name="Dens Food Channel.id", DENS Food Channel
 http://khano.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YPTXCUF.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="DensLifeAndStyle.id" tvg-name="Dens Life And Style.id", DensLifeandStyle
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YPTXCUF.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="DensLifeAndStyle.id" tvg-name="Dens Life And Style.id", DensLifeandStyle
 http://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=denslife-style
 
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -394,24 +394,24 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FTV(HD).vn" tvg-name="FTV(HD).vn", FashionTV Asia (HD)
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="FTV(HD).vn" tvg-name="FTV(HD).vn", FashionTV Asia (HD)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network", Food Network
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="FoodNetwork.uk" tvg-name="Food Network", Food Network
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV HD
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rnvVmz5.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="INFAST" tvg-chno="" tvg-name="INFAST", INFAST
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rnvVmz5.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="INFAST" tvg-chno="" tvg-name="INFAST", INFAST
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1g1UIEk.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="Travelxp" tvg-chno="" tvg-name="Travelxp HD", Travelxp HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1g1UIEk.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="Travelxp" tvg-chno="" tvg-name="Travelxp HD", Travelxp HD
 https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_TravelXP/playlist.m3u8
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
