@@ -14,7 +14,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-https://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/0ac7ed5156289683bd9100f71d55dbbfb17bc75a/2b8fc230e8f847b.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
