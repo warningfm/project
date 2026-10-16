@@ -20,7 +20,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=02
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="ttps://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="3" tvg-id="MNCTV.id" tvg-name="MNCTV", MNCTV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/0ac7ed5156289683bd9100f71d55dbbfb17bc75a/d9bbf6929ec1028.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
