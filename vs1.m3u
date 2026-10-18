@@ -290,7 +290,7 @@ https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1703612119129&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LGO7QMYP53CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155240346433&ispcode=55
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=88&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=088
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ucstwyq.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV", Celebrities TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd|Referer=https://www.visionplus.id
@@ -304,13 +304,13 @@ http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=72&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=072
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZXLmLWm.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="Entertainment.id" tvg-name="ent", Entertainment
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=71&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=071
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6BLiuPa.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="FoodTravel.id" tvg-name="Food Travel", Food Travel
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd|Referer=https://www.visionplus.id
@@ -339,7 +339,7 @@ https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scrip
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=80&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=080
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pd4Ck0W.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="Lifetime.id" tvg-name="Lifetime", Lifetime HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd|Referer=https://www.visionplus.id
@@ -782,7 +782,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=044
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mvkq14Y.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies", Celestial Movies (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd|Referer=https://www.visionplus.id
@@ -835,13 +835,13 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a1.m3u8
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=93&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=093
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2nL0VGi.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="ROCKAction.id" tvg-name="ROCK Action", Rock Action
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=92&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=092
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8uoL1CE.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="RockEntertainment.id" tvg-name="ROCK Entertainment HD", ROCK Entertainment
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://www.visionplus.id
@@ -932,7 +932,7 @@ https://cdn.nng.cloudns.us/live/m3u8/ns/ee612f7b8236fe4.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=131&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=131
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CnrebpZ.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="CNBCAsia.id" tvg-name"CNBC Asia", CNBC Asia
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer=https://www.visionplus.id
@@ -971,13 +971,13 @@ https://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=134&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UzUDWu4.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="IDX.id" tvg-name"IDX", IDX
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=5&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=05
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Q0z325e.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Sindo.News.TV.id" tvg-name"Sindo News TV", Sindo News TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
