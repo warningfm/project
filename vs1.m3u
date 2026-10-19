@@ -691,8 +691,7 @@ https://khano.nng.cloudns.us/live/m3u8/knl/4c4eac0aa8f0ecb.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M72vsb.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="NatureTime.au" tvg-name="Nature Time.au", Nature Time
-#https://khano.nng.cloudns.us/live/m3u8/knl/adb3ea162365d59.m3u8
-https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/19ba0efd116e828b1b347c6a4d870c50ac4af7d1/d4ff175b1e2d418.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S4WzUS4.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="5119" tvg-name="Outdoor Channel", Outdoor Channel
