@@ -86,7 +86,6 @@ https://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png" ch-number="16" tvg-id="Moji.id" tvg-name="MOJI", MOJI
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d418.m3u8
-#https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/c32a77533daf7f621599aa17f61d7a9d72727f02/d4ff175b1e2d418.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HM01rkg.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png" ch-number="17" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
