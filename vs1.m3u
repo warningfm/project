@@ -1334,26 +1334,26 @@ https://stream-ssl.arenastreaming.com:8001/trax
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-20 09:59:30
+# Updated: 2026-10-20 10:19:06
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti-bkp/index.m3u8?auth_key=1792501169-d21ef74ccc13986f2d459695a245eeb1-0-bf8f36473055cd334462b7c30f03ce4a
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/rcti-bkp/index.m3u8?auth_key=1792502345-1441aade7249c12fc06066e58a5542c9-0-53901505838cec2722dfe598509d887c
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792501169-877f5e8a4985b1ba08a736fbd17c4477-0-eb0d60baf744ac65442427573a70c60a
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792502345-e70aeaaf590bb5211ffd07f9e25e0f99-0-13755e663aa2e780410b03161bbfe574
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792501169-5118bfd2495750aa81dbe35682221075-0-cc1b176c2bfabcb9033c080c9a4e16d4
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792502346-fd20074a635e33d70cb191e8d01fbea5-0-06693d9dd8d2ed228b61903785c73fe1
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792501170-6cbbba158cd6b84930c4605c2c165aea-0-f75c2f12220cf69c5b645d6e137fbe74
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792502346-539c460753279c35a0764e9a5e34cc5f-0-0bee2a5a0e77a1ff1332412b051b12f1
 
 # === END RCTI+ SECTION ===
