@@ -363,7 +363,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network", AFN
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/e1273db73aa48e15144d6517f74a5a38d965f3fd/17a9069cb71209c.m3u8
+http://khano.nng.cloudns.us/live/m3u8/int/17a9069cb71209c.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
