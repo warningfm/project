@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-21 10:13:48
+# Generated: 2026-10-21 13:36:18
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792588427-e5291e24079e6d830438721eb7eae4a2-0-314d13e4e521d69edbbc5d8d7e3092c5
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792600577-0fb633f813ab3d4e1bda64bab282a309-0-b459a5ad94b0061c9f516e9876357097
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792588427-8904afb9c7440d50e7748545debe5a6e-0-de69b4e6a71635b213929384162606af
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792600578-03ab9e99f8c1881524d6341f2a778af5-0-6c7c09e9a5c2ffa16de89ae997cd6011
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792588428-57f8cb04295ac2532c97bcf77438e755-0-20d78f2f9587a8d6ae4362d604e2fe77
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792600578-5025fb084db39d678c402bcd2aab778a-0-c5d32a790493d2c5d199d3024d64767f
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792588428-78e521d0125f20ab1a693f156481060b-0-69182b5b0e2af699995066d8e5f2babb
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792600578-84da6575f5b1d3443f37f8ef12f6881a-0-ee1cf14134cb38bb670d77c7ea3fcf0a
