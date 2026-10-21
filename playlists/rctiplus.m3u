@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-21 04:01:27
+# Generated: 2026-10-21 10:13:48
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792566086-5be11bc859d3fe3978469d4dfc5a19bb-0-95aea7ae6e7617a9070fabd4f52df7b7
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792588427-e5291e24079e6d830438721eb7eae4a2-0-314d13e4e521d69edbbc5d8d7e3092c5
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1792566086-ea22ae1be8d9b07e7c132c4f53d2650a-0-449c1a494ec41db38688c4f478c810f5
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792588427-8904afb9c7440d50e7748545debe5a6e-0-de69b4e6a71635b213929384162606af
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1792566087-b8658bd035840664e41d83dfd7a3f01c-0-100948196e84e9806feaad6f9ede76de
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792588428-57f8cb04295ac2532c97bcf77438e755-0-20d78f2f9587a8d6ae4362d604e2fe77
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1792566087-6e00ac65db36c727f6a39e2eafd03f86-0-005d7544423ca79404f178590a34885b
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792588428-78e521d0125f20ab1a693f156481060b-0-69182b5b0e2af699995066d8e5f2babb
