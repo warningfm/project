@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-24 18:39:57
+# Generated: 2026-10-24 22:19:21
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792877996-bda00a20605307d3a94f7ae78478e622-0-eba08b4f3e3a73667bc4cf38615231cc
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1792891160-bc32eed26d0f55660a1addc67701ed86-0-b9a99945fb72c005a9351cde61bb7a53
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792877997-f0baf35ac2e54aec88720c098a13fd07-0-80003660aae08b0600481987888d5d8c
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1792891160-9d90016591883c8789776a4efd0969d2-0-91bd7eb14996d32b8d55f6922d30bf25
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792877997-a821fd27173c84d2307c451a0e3eec28-0-7b6d2046c5dadfd38c0e3232d56dd60f
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1792891160-a2f4c7cc218c14d1ca58a8257ad842ee-0-9f2cea2cc49e9297b29b0475ebb7dcb8
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792877997-f2629aff7a44bab178977aa7c5d60769-0-3946c7ac64afb14171ef056f515b971e
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1792891161-816ca57a636979bb38323a00b346c5d9-0-f3c6d7bf84ec36a289f5d649f55f3ee6
