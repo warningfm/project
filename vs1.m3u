@@ -958,7 +958,8 @@ https://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mcLMewe.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="NHKWorldPremium" tvg-name"NHK World", NHK World Premium
-http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa4.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa4.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PWecmJu.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="TRTWorld.id" tvg-name"TRT World", TRT World
