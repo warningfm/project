@@ -1332,26 +1332,16 @@ https://stream-ssl.arenastreaming.com:8001/trax
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-10-30 14:56:21
-
-#EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793382980-9c1b3c272909f2f1fa9fd563a3fd9d21-0-4b8778c6ff996beac387a9e6646cf64b
+# Updated: 2026-10-30 20:36:07
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793382980-9faa64473f26ae7d4a913d241c0260b0-0-3fa17e108bc82b972cc08a2e75f15b9d
-
-#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1793382981-e7865ccfbd10970b4a9134bce9aba17e-0-b6f11cacb28261edba23cfeed1f56026
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793403366-1dcc0ca157473e092be48bce7aae7603-0-4c069f25cc9fbbe7e5b5f01db7da4dfc
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1793382981-ca379175a70f57203fb6251863e7f7f2-0-a3055f63892f1e89ab9604e3ea0c358d
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1793403367-927794d73826a490ee6fb0e7f342525e-0-72e33c4b4ea90236dcb3d5a8c8d7b2c8
 
 # === END RCTI+ SECTION ===
