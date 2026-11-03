@@ -1332,16 +1332,26 @@ https://stream-ssl.arenastreaming.com:8001/trax
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-02 14:29:42
+# Updated: 2026-11-03 00:19:52
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793640581-0c07344e4176f21058eacd1ce145d9a3-0-540d39c6295791d519c67b099cee7121
+https://proxy-b.rctiplus.id/live/web/rcti-bkp/index.m3u8?auth_key=1793675991-4dc79321eabf58c52889a86ae20e037f-0-2ed84e6cefc74fc04fdc870d7d50e7e2
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793640581-1c5fada8f47aac3d79df7c68e3f6e94b-0-e2fe79691146615ef39a4c571c2a9309
+https://proxy-b.rctiplus.id/live/web/mnctv-bkp/index.m3u8?auth_key=1793675991-a4dce639a0f74a4125a55b1a1e9f66f6-0-ca1986560f2c5375aac758e9b2630fc0
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/gtv-bkp/index.m3u8?auth_key=1793675992-ba52d77bfb3ff5d2eed4aa1b863997cd-0-461a4598162f640e095f86b2b428e49f
+
+#EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/inews-bkp/index.m3u8?auth_key=1793675992-125e37ff197f6c5787b2ccfba5b36c4d-0-8826dfd05d3475cfc0c0efb78b6173de
 
 # === END RCTI+ SECTION ===
