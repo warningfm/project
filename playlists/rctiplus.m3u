@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-11-08 03:50:46
+# Generated: 2026-11-08 11:56:13
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1794120645-83f3e035c313066dc3567d73056d9f57-0-b95616d5a4d8c5ec08f735b1992ffbbf
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1794149772-902081a5d390beb08ed991076c2294f0-0-125f7ac36a9de71a8daa8570adba997e
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1794120646-734bce4fc40883d512875e5452dddafd-0-f42ce63eab40bc0a175ed7d166841a9e
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1794149772-4092a84f65beafafe21e6d9486724a7e-0-48e7ff170fcf3f8ed9027d56075677de
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1794120646-837f3ed64fbb34593a215d018d55d27b-0-27f4449c5748ca2bd8e28baf723d3bb8
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1794149772-851ca7b1bd79d8c89268042399756a50-0-8e25388836a62fc2d87b770ca135a42d
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1794120646-0d5ed26281380ceba8a79b0a9378a374-0-567a8044d80338bd1eebfd85bad5a432
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1794149773-2d2166c081aa2e8ce177121e3fa44487-0-9546399d44458462b089591398dfd225
