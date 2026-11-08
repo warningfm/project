@@ -294,22 +294,20 @@ http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=72
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZXLmLWm.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="Entertainment.id" tvg-name="ent", Entertainment
-https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd|Referer=https://www.visionplus.id
+https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6BLiuPa.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="FoodTravel.id" tvg-name="Food Travel", Food Travel
 https://proxy-v.rctiplus.id/live/web/foodtravel/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4EIsS54.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="HanacarakaTV.id" tvg-name="Hanacaraka TV", Hanacaraka TV
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV.id", Indonesiana TV
