@@ -320,11 +320,10 @@ https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scrip
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7yp83fh.png" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="684165", ION PLUS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=80
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pd4Ck0W.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="Lifetime.id" tvg-name="Lifetime", Lifetime HD
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd|Referer=https://www.visionplus.id
+https://proxy-v.rctiplus.id/live/web/lifetime/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nA3Okzz.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="OxygenTV" tvg-name="Oxygen TV", Oxygen TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/7df80d7bfc51ecd8fcdb0143731afde18c3af839/oxygen.m3u8
