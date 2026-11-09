@@ -49,7 +49,7 @@ https://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9270.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
-https://beetv.my.id/jabingan/rcti.m3u8?id=3
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
