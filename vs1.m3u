@@ -775,6 +775,11 @@ http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mvkq14Y.png?v=1.0.0.1" group-title="Movies" group-logo="https://warningfm.github.io/v3/img/3v1SBoP.png" tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies", Celestial Movies (V+)
 https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://warningfm.github.io/v3/img/3v1SBoP.png" tvg-id="HITSNow.id" tvg-name="HITS NOW", HITS Now
+https://proxy-v.rctiplus.id/live/web/hitsnow/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/puD2me6.png?v=1.0.0.1" group-title="Movies" group-logo="https://warningfm.github.io/v3/img/3v1SBoP.png" tvg-id="KIX.id" tvg-name="KIX", KIX
