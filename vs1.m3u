@@ -3,8 +3,8 @@
 #EXTM3U
 # (●) Last Updated: 2026-10-03 03:59:33 GMT+7 "
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
 https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
@@ -14,11 +14,10 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="3" tvg-id="MNCTV.id" tvg-name="MNCTV", MNCTV
-https://beetv.my.id/jabingan/rcti.m3u8?id=2
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
@@ -47,7 +46,6 @@ https://khano.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b6.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", Trans TV
 https://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9270.m3u8
 
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
@@ -71,8 +69,8 @@ https://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png" ch-number="13" tvg-id="Kompas.TV.id" tvg-name="Kompas TV", Kompas TV
 https://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="14" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
@@ -962,11 +960,9 @@ https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 https://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UzUDWu4.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="IDX.id" tvg-name"IDX", IDX
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=05
