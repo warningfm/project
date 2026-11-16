@@ -12,7 +12,7 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV", SCTV HD
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -28,7 +28,7 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="5" tvg-id="Indosiar.my.id" tvg-name="INDOSIAR HD", Indosiar HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="5" tvg-id="Indosiar.my.id" tvg-name="Indosiar", Indosiar HD
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
