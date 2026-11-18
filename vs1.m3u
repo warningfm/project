@@ -1324,21 +1324,26 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-17 15:21:21
+# Updated: 2026-11-18 00:21:54
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1794939680-9d6ad12873ce89919ef9fbee247aa3aa-0-900af5c3f05f8d30be7bfb7deeb9365a
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1794972113-21a01b8a2c329881a5bf6758ff41dd7d-0-7af0a21d3a995a024530d622dac9e86b
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1794939680-4e6d9401e3fc40c7eb84d8e5149d7b5c-0-bfcf4af89969a05628db9bc9bb3fc2d8
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1794972113-05525c4553b6fea7db005f9967643553-0-03e1e95d049753ab82028ae73d74dd17
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1794972113-9522a8fb1167ca5bbce7aa7a050c9ca3-0-f3ad15e103a761bea0571b34321d4473
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1794939681-579c028f7d72d06be0bd72fcf065d62c-0-b67824e5d3bba48c7247f48066623ed9
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1794972113-e6937056a740b905b690f9177415fcd0-0-274f30556bdda3d43a85e9f7211593d1
 
 # === END RCTI+ SECTION ===
