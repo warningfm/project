@@ -1324,11 +1324,11 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-19 12:40:45
+# Updated: 2026-11-19 15:02:17
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795102844-698e6a80e9e48ffd57415f8e7e8621f1-0-2aa35a76fb24e546f712d0a1b8aee791
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795111336-1ed9b5d76a6516e17174a33c497d1a4a-0-29995013593c0ab5ed55f1d5e922204a
 
 # === END RCTI+ SECTION ===
