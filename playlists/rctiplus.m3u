@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-11-18 23:46:41
+# Generated: 2026-11-19 05:28:59
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1795056399-efaf520ee187c8b2e32850b731b259c8-0-d5dbebcd8b2dc398c7fb14a50e8a5966
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1795076938-9f13a952dccaa2bbe6c7f70562564225-0-f1c7573083bc726d05b430388deef08d
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795056400-563a31fc684c052f46fb0703ed31e5ba-0-949f552e8f13f1be94378ce0daecbfdd
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795076938-1ff86048833bed0f649fe61fda51ee0c-0-01370a20982ec63828ce711e974d2fe4
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1795056400-e343b2e0004251a563f41b09191a9e5e-0-e5e2d3ecb4b9d2c7fb6b5192f3098acf
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1795076939-fceecbb3b85a27e064dd72405af670fb-0-14f3c7f8301af7e1ad3ca334426eeb72
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1795056401-231aafa8a7442f9ffff918ec394c7815-0-980f8dd0d467e120d1252ac4ef00903e
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1795076939-6eb19dc7aa972589cc98dfa2d2acf74c-0-4cbd5d2cc59270d3b64128c7d191423f
