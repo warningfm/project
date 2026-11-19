@@ -1324,11 +1324,26 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-18 14:56:05
+# Updated: 2026-11-18 23:46:41
+
+#EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1795056399-efaf520ee187c8b2e32850b731b259c8-0-d5dbebcd8b2dc398c7fb14a50e8a5966
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795024564-27577f049f2b9c9d0eef2cbea42c086d-0-03f49edbb7c8780ba3cd1552dd6e45d5
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795056400-563a31fc684c052f46fb0703ed31e5ba-0-949f552e8f13f1be94378ce0daecbfdd
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1795056400-e343b2e0004251a563f41b09191a9e5e-0-e5e2d3ecb4b9d2c7fb6b5192f3098acf
+
+#EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1795056401-231aafa8a7442f9ffff918ec394c7815-0-980f8dd0d467e120d1252ac4ef00903e
 
 # === END RCTI+ SECTION ===
