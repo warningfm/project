@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated: 2026-11-20 00:09:01
+# Generated: 2026-11-20 08:53:02
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795144140-f10ea4c69740e4dc3c840edd50b4d79c-0-4c8b634b041d251194452b6327c91048
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1795175581-b3cbbf0864a36b2000889ef2609c9961-0-93ca33e18fd822b9ff30023441efcf1e
