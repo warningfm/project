@@ -422,11 +422,10 @@ https://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwBOvbsJWvJoMMG2Skj87fBDlLqfpOokbIsW2uEPjKsgg0_qm-rxizRBs3KneTmQ-ERnPI6easxJVimwxsJJ9I7aetkL737e9dC33Uv7UHrlA__sF-NABWWOKy_KkPUtVo9Y7qkcssBJB80lMjlFue8UyJkZHmqTj_ZA8cjBJnZQfnVjvHfjmkf4aa4_E/s1600/cgO5MbX.png?v=1.1.1.1" group-title="Ukhuwah Islamiyah" group-logo="https://warningfm.github.io/v3/img/OWuNpBP.png" tvg-id="DMITV.id" tvg-name="DMI TV.id", DMI TV
 https://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=137
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoO3le71CUb1ECJdymyQvJXDBVKLJSzACnKTiUPTKMkupFORlZkr7KskLsiomDxc7mY2_hm3ztlZ_XRpTtutAQqQJK7IJS4LokeR3YecHHZBHvzZ61yyoovZJ3pMndnE9NYli77A10gf0_ftZlJF2uJBMhGfBf9dcoOVnBsglL3Qq47MtbYZOZ4DqAHKdg/s1600/5ik1ZkS.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" group-logo="https://warningfm.github.io/v3/img/OWuNpBP.png" tvg-id="MuslimTV.id" tvg-name="Muslim TV", Muslim TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/muslimtv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" group-logo="https://warningfm.github.io/v3/img/OWuNpBP.png" tvg-id="TV9.id" tvg-name="TV 9.id", TV9 Nusantara
@@ -479,9 +478,9 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png" tvg-id="FightSports.us" tvg-name="Fight Sports", Fight Sports
-https://proxy-v.rctiplus.id/live/web/fightsports/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/fightsports/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
