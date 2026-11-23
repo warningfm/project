@@ -607,7 +607,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/U4aTRX9.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="BBC.Earth.id" tvg-name="BBC Earth", BBC Earth
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/bbcearth/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vCe26fV.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="CGTNDocumentary.id" tvg-name="CGTN-Documentary", CGTN Documentary
@@ -616,7 +616,7 @@ https://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gdy1nf8.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation", Crime Investigation
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/crimeinvest/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -653,7 +653,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Roz7rC6.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="History.id" tvg-name="History", History
-https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/history/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VZS5v61.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" channel-id="GBBA220000751-gb" tvg-id="GBBA220000751" tvg-name="INWILD", INWILD
@@ -662,7 +662,7 @@ https://khano.nng.cloudns.us/live/m3u8/knl/33f888522067833.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CYSadHU.png?v=1.1.1.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="LoveNature.id" tvg-name="Love Nature", Love Nature Asia
-https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/lovenature/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dD7kjTY.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://warningfm.github.io/v3/img/i1s3UMq.png" tvg-id="LoveNature.au" tvg-name="Love Nature.au", Love Nature 4K
@@ -697,7 +697,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HVxfWbC.png?v=1.0.0.1" group-title="Music" group-logo="https://warningfm.github.io/v3/img/3v1Tx3l.png" tvg-id="MusicTV.id" tvg-name="Music TV", Music TV
-https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/musictv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/R3BrQZs.png?v=1.0.0.1" group-title="Music" group-logo="https://warningfm.github.io/v3/img/3v1Tx3l.png" tvg-id="101" tvg-name="Preview Channel", Music Information Channel
