@@ -241,7 +241,7 @@ https://khano.nng.cloudns.us/live/m3u8/Kids/c36fa382a5bf123.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rwoPk1s.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png" tvg-id="NickJr" tvg-name="Nick Jr", Nick Jr
-https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
