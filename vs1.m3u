@@ -7,8 +7,7 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
-https://linier-rcti.rctiplus.id/rcti-sdi-avc1_1000000=17-mp4a_96000=1.m3u8?auth_key=1795449730-a9b5b10f88fb7efc39de1d00682e57e3-0-0b6c8c3f73af0848d4116c189ad6da2c
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
