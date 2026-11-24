@@ -27,11 +27,11 @@ https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/ra
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
 https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-origin=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png" ch-number="5" tvg-id="Indosiar.my.id" tvg-name="Indosiar", Indosiar HD
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://dsgtq5sngxkde.cloudfront.net/indosiar/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="Metro TV", Metro TV HD
