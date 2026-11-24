@@ -1322,21 +1322,26 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-23 17:04:41
+# Updated: 2026-11-24 03:42:25
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795464280-ad7721f3416599a80f37dbf131cece2c-0-4deb4026bac75116a6c6c0315ffaee47
+https://linier-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1795502544-120bbce89a3610dd06f448896bda6254-0-124f85c385642b1495c103c0cebb7646
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795464280-f24e0d0083d2dac5ce568eaeafec3de0-0-63509087505cc408c893cdf4506e0364
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795502544-b7cd00ea45bed94ea51288dd2ffa1583-0-cfa37011109f6e32b7022eb358396ff0
+
+#EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795502545-7b16b51a6fc97fe49a52b314e978ba64-0-f289d0f3fdff62790e9ba3bac803885f
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795464281-8d3e93698ebd7896373805b0dafa0a93-0-8312e9306ed595f5dd4185e8b332bda6
+https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795502545-e85fe3720f7af0cfbf17e0e4fb249e3e-0-db74a3b517a0a0b902af951a0b326690
 
 # === END RCTI+ SECTION ===
