@@ -1070,9 +1070,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#KODIPROP:inputstream.adaptive.license_key=795bacfb62a6475f8ae90dab34db6f35:bba4400eb2f0c47083caa602f301078f
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8RckLVA.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee Bollywood.in" tvg-name="Zee Bollywood.in", Z Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="130" tvg-name="Zee Cinema HD", Z Cinema HD
