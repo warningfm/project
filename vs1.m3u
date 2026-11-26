@@ -283,10 +283,6 @@ http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87H
 https://dsgtq5sngxkde.cloudfront.net/celebrities/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kDghfOK.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://warningfm.github.io/v3/img/3gglPln.png" tvg-id="DaVinciLearning.sg" tvg-name"Da Vinci Learning", Da Vinci Learning
-http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kRAIcwb.png?v=1.0.0.1" group-title="Entertainment" tvg-id="plex.tv.Dove.plex" tvg-name="Dove", Dove
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
@@ -879,15 +875,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v8
 
 ########################################################     Bioskop Indonesia     ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TAjYixM.png?v=1.0.0.1" group-title="Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia
-https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Fgm4YLX.png?v=1.0.0.1" group-title="Movies" tvg-id="IMC.id" tvg-name="IMC", IMC
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://www.visionplus.id
 
 ########################################################           HBO GO           ########################################################
 
@@ -1223,14 +1211,6 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 
 
 ########################################################          Dens TV         ########################################################
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TYpz6Yv.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/0ac7ed5156289683bd9100f71d55dbbfb17bc75a/2b8fc230e8f847b.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CiYAcVe.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="215" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/6ea145b7b602ab354f1f13c5e36592aa97e44e0e/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
