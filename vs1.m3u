@@ -1307,26 +1307,26 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 ########################################################              RCTI +             ########################################################
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-26 16:11:21
+# Updated: 2026-11-27 01:23:29
 
 #EXTINF:-1 tvg-id="RCTI" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://poclive.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1795781480~hmac=792e528b667e134a4ee0fb95356dc156efd6892fc8d474bc6cf66e1134de94a3
+https://poclive.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1795814608~hmac=041a20271ca782650dfefee331a359d9dd28278cc9686bafb8a06b46e1568c42
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795720280-b766c3f3ccd1ec8d53b0018b0605b4d4-0-c9af01883830199c5792b94743b67427
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1795753408-1deaf0ac356f7a87822fa5b5c97ca473-0-0b1528e50a77eb1d9672bea6c0f21d9c
 
 #EXTINF:-1 tvg-id="GTV" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795720280-19b6990f28dfe5ef3dbee4fb478c70c6-0-ef20069ad4581cf4760685ba56d00084
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1795753408-350195e9625a891611e9c7a207a7b915-0-1e3b8640ca33e1da5b1a1d2d34648d0f
 
 #EXTINF:-1 tvg-id="iNews" group-title="RCTI+" tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795720281-05fa476ed9d2d7d6649bb5046886b074-0-c03cd5c4c7c9c0b60f4f402b9ac04184
+https://linier-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1795753408-d1ad84f072f714adb5c773788748132a-0-65f2a9a777f3e4f838ead7bd18c9c91c
 
 # === END RCTI+ SECTION ===
